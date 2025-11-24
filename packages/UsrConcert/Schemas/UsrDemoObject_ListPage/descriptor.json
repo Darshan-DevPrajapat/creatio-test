@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "de82a1a6-849a-4d1d-b6a0-9242fc9aa6a2",
+    "Name": "UsrDemoObject_ListPage",
+    "ModifiedOnUtc": "\/Date(1744955728000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "demo object list page",
+    "DependsOn": []
+  }
+}

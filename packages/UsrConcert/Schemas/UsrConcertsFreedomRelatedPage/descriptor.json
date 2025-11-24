@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "47869d5e-9749-4ab2-9841-4397e5941b11",
+    "Name": "UsrConcertsFreedomRelatedPage",
+    "ModifiedOnUtc": "\/Date(1742541228000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Concerts Freedom (Page settings)",
+    "DependsOn": []
+  }
+}

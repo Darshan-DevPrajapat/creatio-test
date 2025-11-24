@@ -1,0 +1,33 @@
+﻿{
+  "Descriptor": {
+    "UId": "c9e5b4d6-1dfe-4d6e-b606-9cda9260c980",
+    "Name": "UsrConcert",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1742791359000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrConcert.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      },
+      {
+        "UId": "06d9ef10-51d8-122c-8933-9212e84236c9",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBase"
+      },
+      {
+        "UId": "a17d52e6-97ab-6f7f-17aa-f0e197e488ea",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIv2"
+      },
+      {
+        "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+        "PackageVersion": "7.8.0",
+        "Name": "NUI"
+      }
+    ]
+  }
+}

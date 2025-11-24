@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a292b6ae-0695-4e54-9404-775e9edb4151",
+    "Name": "UsrConcertsFreedom",
+    "ModifiedOnUtc": "\/Date(1742541644000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Concerts Freedom",
+    "DependsOn": []
+  }
+}

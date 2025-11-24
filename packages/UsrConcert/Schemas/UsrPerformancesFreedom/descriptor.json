@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "76462faa-e12e-48b8-b5c4-7bd1003a3fc8",
+    "Name": "UsrPerformancesFreedom",
+    "ModifiedOnUtc": "\/Date(1742541893000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Performances Freedom",
+    "DependsOn": []
+  }
+}

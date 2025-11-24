@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "74ac786c-91d7-436d-948a-e96ec3f13412",
+    "Name": "UsrDemoObjectRelatedPage",
+    "ModifiedOnUtc": "\/Date(1744955728000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "demo object (Page settings)",
+    "DependsOn": []
+  }
+}

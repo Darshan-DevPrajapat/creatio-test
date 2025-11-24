@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "43c7b7ab-b5a4-4ea3-8ea3-9f4b65e53a0f",
+    "Name": "UsrPerformancesFreedom_ListPage",
+    "ModifiedOnUtc": "\/Date(1742552171000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Performances Freedom list page",
+    "DependsOn": []
+  }
+}

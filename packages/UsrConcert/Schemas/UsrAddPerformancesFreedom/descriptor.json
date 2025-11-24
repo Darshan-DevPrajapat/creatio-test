@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "486b9a2e-c1fd-4b59-8582-bafe337894bb",
+    "Name": "UsrAddPerformancesFreedom",
+    "ModifiedOnUtc": "\/Date(1742791655000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "UsrAddPerformancesFreedom",
+    "DependsOn": []
+  }
+}

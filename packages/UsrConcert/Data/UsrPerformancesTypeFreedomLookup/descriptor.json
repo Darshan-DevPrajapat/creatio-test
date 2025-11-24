@@ -1,0 +1,35 @@
+﻿{
+  "Descriptor": {
+    "UId": "c74741a5-a3a7-0bb7-24cd-bb78de45dd1b",
+    "Name": "UsrPerformancesTypeFreedomLookup",
+    "ModifiedOnUtc": "\/Date(1742554433000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "78cbfb51-c09a-48a7-a3f3-0044852c592b",
+      "Name": "UsrPerformancesTypeFreedomLookup"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

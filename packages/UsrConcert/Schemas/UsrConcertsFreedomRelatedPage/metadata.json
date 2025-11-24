@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "47869d5e-9749-4ab2-9841-4397e5941b11",
+      "A2": "UsrConcertsFreedomRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "a292b6ae-0695-4e54-9404-775e9edb4151",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "3567bdcb-c895-48f5-aa66-e863fad2ca21",
+            "PageSchemaUId": "9f3834e9-e31d-4071-a819-29df172a390f",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

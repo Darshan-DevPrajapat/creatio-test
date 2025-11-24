@@ -1,0 +1,21 @@
+{
+  "Name": "Concert",
+  "Description": "",
+  "Maintainer": "Customer",
+  "Icon": "PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNiA0LjVDOS42NDg3MyA0LjUgNC41IDkuNjQ4NzMgNC41IDE2QzQuNSAyMi4zNTEzIDkuNjQ4NzMgMjcuNSAxNiAyNy41QzIyLjM1MTMgMjcuNSAyNy41IDIyLjM1MTMgMjcuNSAxNkMyNy41IDkuNjQ4NzMgMjIuMzUxMyA0LjUgMTYgNC41Wk0xNC42MjQxIDExLjk0NjFDMTQuMDg3MSAxMS41OTk5IDEzLjM4MDkgMTEuOTg2NiAxMy4zODA5IDEyLjYyNjhWMTkuMzczMkMxMy4zODA5IDIwLjAxMzQgMTQuMDg3MSAyMC40MDAxIDE0LjYyNDEgMjAuMDUzOUwxOS44NTY0IDE2LjY4MDdDMjAuMzUwNSAxNi4zNjIyIDIwLjM1MDUgMTUuNjM3OCAxOS44NTY0IDE1LjMxOTNMMTQuNjI0MSAxMS45NDYxWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==",
+  "IconName": "icon_13.svg",
+  "Color": "#0058EF",
+  "Version": "1.0.0",
+  "MarketplaceLink": "",
+  "HelpLink": "",
+  "OrderLink": "",
+  "SupportEmail": "",
+  "DependsOn": [],
+  "Code": "UsrConcert",
+  "Packages": [
+    {
+      "UId": "c9e5b4d6-1dfe-4d6e-b606-9cda9260c980",
+      "Name": "UsrConcert"
+    }
+  ]
+}

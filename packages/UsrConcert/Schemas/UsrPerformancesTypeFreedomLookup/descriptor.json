@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "78cbfb51-c09a-48a7-a3f3-0044852c592b",
+    "Name": "UsrPerformancesTypeFreedomLookup",
+    "ModifiedOnUtc": "\/Date(1742541891000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Performances Type Freedom Lookup",
+    "DependsOn": []
+  }
+}

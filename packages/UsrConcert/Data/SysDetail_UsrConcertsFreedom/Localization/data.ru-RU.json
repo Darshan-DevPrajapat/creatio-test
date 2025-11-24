@@ -1,0 +1,18 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "6d3b7943-65c1-4f17-88b5-d447d5873396"
+        },
+        {
+          "SchemaColumnUId": "49ad8ee2-65a6-4cdd-b8f6-85c2f10a54dc",
+          "ColumnName": "Caption",
+          "Value": "Деталь Concerts Freedom"
+        }
+      ]
+    }
+  ]
+}

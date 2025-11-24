@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1bcdd7d9-3845-4105-bd86-2e32174180f7",
+    "Name": "UsrPerformancesFreedomRelatedPage",
+    "ModifiedOnUtc": "\/Date(1742541266000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Performances Freedom (Page settings)",
+    "DependsOn": []
+  }
+}

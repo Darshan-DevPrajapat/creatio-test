@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Деталь Performances Freedom" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Performances Freedom" />
+		</Items>
+	</Group>
+</Resources>

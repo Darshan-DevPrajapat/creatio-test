@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "131af78a-508d-427d-b580-7cb1a6734abc",
+    "Name": "UsrDemoObject_Detail",
+    "ModifiedOnUtc": "\/Date(1744955728000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "demo object detail",
+    "DependsOn": []
+  }
+}

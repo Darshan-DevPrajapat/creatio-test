@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5adf38f8-39c3-4628-9d9a-959917d36842",
+    "Name": "UsrConcertTypeFreedomLookup",
+    "ModifiedOnUtc": "\/Date(1742541641000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Concert Type Freedom Lookup",
+    "DependsOn": []
+  }
+}

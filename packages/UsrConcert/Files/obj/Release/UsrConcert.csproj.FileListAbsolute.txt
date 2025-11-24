@@ -1,0 +1,9 @@
+D:\creatio\8.2.2.1859_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrConcert\Files\Bin\UsrConcert.dll
+D:\creatio\8.2.2.1859_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrConcert\Files\Bin\UsrConcert.pdb
+D:\creatio\8.2.2.1859_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrConcert\Files\obj\Release\UsrConcert.csproj.AssemblyReference.cache
+D:\creatio\8.2.2.1859_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrConcert\Files\obj\Release\UsrConcert.GeneratedMSBuildEditorConfig.editorconfig
+D:\creatio\8.2.2.1859_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrConcert\Files\obj\Release\UsrConcert.AssemblyInfoInputs.cache
+D:\creatio\8.2.2.1859_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrConcert\Files\obj\Release\UsrConcert.AssemblyInfo.cs
+D:\creatio\8.2.2.1859_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrConcert\Files\obj\Release\UsrConcert.csproj.CoreCompileInputs.cache
+D:\creatio\8.2.2.1859_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrConcert\Files\obj\Release\UsrConcert.dll
+D:\creatio\8.2.2.1859_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrConcert\Files\obj\Release\UsrConcert.pdb

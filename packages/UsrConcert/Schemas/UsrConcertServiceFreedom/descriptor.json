@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "617a653d-b95f-46bf-a359-104efa7add04",
+    "Name": "UsrConcertServiceFreedom",
+    "ModifiedOnUtc": "\/Date(1742787080000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Concert Service Freedom",
+    "DependsOn": []
+  }
+}

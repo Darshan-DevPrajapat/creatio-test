@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9f3834e9-e31d-4071-a819-29df172a390f",
+    "Name": "UsrConcertsFreedom_FormPage",
+    "ModifiedOnUtc": "\/Date(1742793165000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Concerts Freedom form page",
+    "DependsOn": []
+  }
+}

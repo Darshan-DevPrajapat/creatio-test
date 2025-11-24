@@ -1,0 +1,9 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/UsrConcert/Schemas/UsrConcertsFreedom/UsrConcertsFreedom.cs" Condition="Exists('$(PkgPath)/UsrConcert/Schemas/UsrConcertsFreedom/UsrConcertsFreedom.cs')" />
+		<Compile Include="$(PkgPath)/UsrConcert/Schemas/UsrConcertTypeFreedomLookup/UsrConcertTypeFreedomLookup.cs" Condition="Exists('$(PkgPath)/UsrConcert/Schemas/UsrConcertTypeFreedomLookup/UsrConcertTypeFreedomLookup.cs')" />
+		<Compile Include="$(PkgPath)/UsrConcert/Schemas/UsrDemoObject/UsrDemoObject.cs" Condition="Exists('$(PkgPath)/UsrConcert/Schemas/UsrDemoObject/UsrDemoObject.cs')" />
+		<Compile Include="$(PkgPath)/UsrConcert/Schemas/UsrPerformancesFreedom/UsrPerformancesFreedom.cs" Condition="Exists('$(PkgPath)/UsrConcert/Schemas/UsrPerformancesFreedom/UsrPerformancesFreedom.cs')" />
+		<Compile Include="$(PkgPath)/UsrConcert/Schemas/UsrPerformancesTypeFreedomLookup/UsrPerformancesTypeFreedomLookup.cs" Condition="Exists('$(PkgPath)/UsrConcert/Schemas/UsrPerformancesTypeFreedomLookup/UsrPerformancesTypeFreedomLookup.cs')" />
+	</ItemGroup>
+</Project>
